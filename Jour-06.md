@@ -3,13 +3,13 @@
 ## Mardi 23/07/2019
 
 * [x] Découverte du Markdown : 
-  * [x] Comprendre l'intérêt du Markdown
-  * [x] Découvrir les balises de bases : 
-    * [x] Titres
-    * [x] Images
-    * [x] Formatage de texte (italique, souligné, gras)
-    * [x] Code
-    * [x] Citations
+  * [ ] Comprendre l'intérêt du Markdown
+  * [ ] Découvrir les balises de bases : 
+    * [ ] Titres
+    * [ ] Images
+    * [ ] Formatage de texte (italique, souligné, gras)
+    * [ ] Code
+    * [ ] Citations
     * [ ] Tableaux
     * [ ] Liens
   * [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
