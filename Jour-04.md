@@ -5,16 +5,16 @@
 
 * [x] Création de compte Github
 * [x] Installation et configuration de Git
-* [ ] Comprendre le versionning
-* [ ] Comprendre le fonctionnement de Git
-  [ ] Comprendre le staging de Git
-  * [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
-    * [ ] git init
-    * [ ] git add
-    * [ ]  git status
+* [] Comprendre le versionning
+* [x] Comprendre le fonctionnement de Git
+  [x] Comprendre le staging de Git
+  * [x] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
+    * [x] git init
+    * [x] git add
+    * [x]  git status
     * [x]git commit
-    * [ ] git pull
-    * [ ] git clone
-    * [ ] git push
-    * [ ] git remote
+    * [x] git pull
+    * [x] git clone
+    * [x] git push
+    * [x] git remote
 * Faire le parcours Git-it (Nodeschool.io)
