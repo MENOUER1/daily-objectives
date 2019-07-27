@@ -3,11 +3,11 @@
 ## Mardi 23/07/2019
 
 * [x] Découverte du Markdown : 
-  * [ ] Comprendre l'intérêt du Markdown
-  * [ ] Découvrir les balises de bases : 
+  * [x] Comprendre l'intérêt du Markdown
+  * [x] Découvrir les balises de bases : 
     * [ ] Titres
     * [ ] Images
-    * [ ] Formatage de texte (italique, souligné, gras)
+    * [x] Formatage de texte (italique, souligné, gras)
     * [ ] Code
     * [ ] Citations
     * [ ] Tableaux
