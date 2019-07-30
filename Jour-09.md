@@ -10,8 +10,8 @@
 
 
 * [ ] Algo : 
-  * [ ] Comprendre l'utilité des algorithmes de tri
-  * [ ] Découvrir le tri par insertion (Insertion Sort)
+  * [x] Comprendre l'utilité des algorithmes de tri
+  * [x] Découvrir le tri par insertion (Insertion Sort)
 
 * [ ] Découvrir le CSS :
   * [ ] Comprendre la syntaxe de base
