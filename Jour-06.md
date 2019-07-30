@@ -5,7 +5,7 @@
 * [x] Découverte du Markdown : 
   * [x] Comprendre l'intérêt du Markdown
   * [x] Découvrir les balises de bases : 
-    * [ ] Titres
+    * [x] Titres
     * [ ] Images
     * [x] Formatage de texte (italique, souligné, gras)
     * [ ] Code
@@ -18,4 +18,4 @@
   * [x] Navigateur (fenêtres, onglets, navigation, etc …)
   * [x] Terminal (fenêtres, onglets, commandes)
   * [x] Découverte et installation de Albert (Linux) / Alfred (Mac)
-* [ ] Rédaction en Markdown du contenu du travail en groupe (wiki, repos)
+* [x]  Rédaction en Markdown du contenu du travail en groupe (wiki, repos)
