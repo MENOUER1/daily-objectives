@@ -5,7 +5,7 @@
 
 * [x] Création de compte Github
 * [x] Installation et configuration de Git
-* [] Comprendre le versionning
+* [x] Comprendre le versionning
 * [x] Comprendre le fonctionnement de Git
   [x] Comprendre le staging de Git
   * [x] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
