@@ -12,9 +12,9 @@
   * [ ] Découvrir les principaux tags HTML et comprendre leur utilité
   * [x] Savoir architecturer une page HTML basique
   * [x] Comprendre le fonctionnement des attributs
-  * [ ] Savoir commenter dans une page HTML
+  * [x] Savoir commenter dans une page HTML
   * [x]Découvrir le principe de parents/enfants
-  * [ ] Découvrir le HTML5 sémantique
-* [ ] Découvrir le maquettage fonctionnel (wireframe)
-* [ ] Comprendre la différence entre les liens relatifs et liens absolus
+  * [x] Découvrir le HTML5 sémantique
+* [x] Découvrir le maquettage fonctionnel (wireframe)
+* [x] Comprendre la différence entre les liens relatifs et liens absolus
 * [ ] Savoir insérer des scripts JS dans une page HTML
