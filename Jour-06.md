@@ -6,10 +6,10 @@
   * [x] Comprendre l'intérêt du Markdown
   * [x] Découvrir les balises de bases : 
     * [x] Titres
-    * [ ] Images
+    * [x] Images
     * [x] Formatage de texte (italique, souligné, gras)
-    * [ ] Code
-    * [ ] Citations
+    * [x] Code
+    * [x] Citations
     * [ ] Tableaux
     * [ ] Liens
   * [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
