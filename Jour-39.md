@@ -18,10 +18,10 @@
 - [x] Création/suppression de comptes utilisateurs
 - [x] Création de bases de données (https://youtu.be/DvDOU-v822w)
 - [x] Suppression de bases de données (https://youtu.be/IWkNbJhn2TM)
-- [ ] Découvrir les rôles dans `PostgreSQL` (https://docs.postgresql.fr/12/user-manag.html)
+- [x] Découvrir les rôles dans `PostgreSQL` (https://docs.postgresql.fr/12/user-manag.html)
 
 ### Node.JS :
 
-- [ ] Découverte d'`Express.js`
-- [ ] Installation d'`Express.js`
+- [x] Découverte d'`Express.js`
+- [x] Installation d'`Express.js`
 - [ ] Création d'un hello world personnalisé avec `Express.js` (plusieurs fois)
