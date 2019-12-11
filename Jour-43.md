@@ -2,16 +2,16 @@
 
 ## Javascript :
 
-* Revoir l'`Insertion Sort` en Javascript
-* Etudier le `Bubble Sort` en Javascript
-* Etudier le `Selection Sort` en Javascript
+* [x]Revoir l'`Insertion Sort` en Javascript
+* [x]Etudier le `Bubble Sort` en Javascript
+* [x]Etudier le `Selection Sort` en Javascript
 
 
 ## Node.JS :
 
 * Savoir installer et configurer `Babel` pour l'utilisation des `imports` en remplacement des `requires`
 * Savoir installer et configurer les variables d'environnement avec `dotenv-extended`
-* Créer un starter pack "moderne" avec `Express Generator`
+*[x] Créer un starter pack "moderne" avec `Express Generator`
 * Comprendre le model `MVC`
 * Savoir créer et configurer des routes dans `Express`
 * Savoir installer et configurer `Sequelize`
