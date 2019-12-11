@@ -12,7 +12,7 @@
   * [ ] Comprendre les méthodes protypales modernes (http://javascript.info/prototype-methods)
   * [ ] Révision de l'héritage protypale (chaque table explique à "son élève" l'héritage protypale)
 
-  * [ ] Comprendre ce qu'est une classe en `Javascript` (http://javascript.info/class)
+  * [x] Comprendre ce qu'est une classe en `Javascript` (http://javascript.info/class)
   * [ ] Comprendre le fonctionnement de l'héritage de classe en `Javascript` (http://javascript.info/class-inheritance)
 
 
